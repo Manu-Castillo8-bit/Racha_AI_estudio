@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RACHA</string>
+    <string name="streak_title">RACHA DE ESTUDIO</string>
+    <string name="streak_days_label">DÍAS CONSECUTIVOS</string>
+    <string name="btn_study_today">HOY SÍ ESTUDIÉ</string>
+    <string name="btn_study_completed">¡COMPLETADO HOY! 🔥</string>
+    <string name="last_7_days_title">ÚLTIMOS 7 DÍAS</string>
+    <string name="streak_fire_desc">Fuego de racha</string>
+    <string name="status_studied">Estudiado</string>
+    <string name="status_missed">Pendiente</string>
+    <string name="refresh_quote_desc">Nuevo mensaje motivador</string>
+</resources>
